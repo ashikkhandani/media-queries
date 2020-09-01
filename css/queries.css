@@ -5,7 +5,7 @@
  480-less    - phone landscape & smaller */
 
 /* small phones: from 0 px to 480px to 767px */
-@media only screen and (min-widht: 480px) and (max-width: 767px) {
+@media only screen and (min-width: 480px) {
   body {
     background-color: red;
   }
